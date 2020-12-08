@@ -17,4 +17,4 @@ Simple!
 
 
 
-![Calculator](http://i.ibb.co/MhbsvbR/Screenshot-from-2020-12-07-23-52-45.png "Simple Calculator App")
+![Calculator](http://i.ibb.co/9GW2c7K/Screenshot-from-2020-12-08-00-26-52.png "Simple Calculator App")
