@@ -14,3 +14,7 @@ Simple!
 3- In Android Studio you are going to select main.dart in the top next to the device selector and click run. 
 
 4 - Enjoy this Simple Flutter app!
+
+
+
+![Calculator](http://i.ibb.co/MhbsvbR/Screenshot-from-2020-12-07-23-52-45.png "Simple Calculator App")
