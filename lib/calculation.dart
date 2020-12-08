@@ -38,10 +38,11 @@ class _CalculationState extends State<Calculation> {
             ResultDisplay(
               text: _getDisplayText(state.calculationModel),
             ),
-            //Spacer(),
+
             CalculationHistoryContainer(
                 calculations: state.history.reversed.toList()
             ),
+            Spacer(),
             _getButtonCustomWide(text:"Clear History",onTap:clearHistory,backgroundColor: Colors.yellow[200] ),
             Row(
               children: [
@@ -82,8 +83,8 @@ class _CalculationState extends State<Calculation> {
 
               ],
             ),
-            Spacer(),
-            _getButtonCustomWide(text:'Get Results', onTap: calculateResult, backgroundColor: Colors.amber[300],height:100)
+            //Spacer(),
+            //_getButtonCustomWide(text:'Get Results', onTap: calculateResult, backgroundColor: Colors.amber[300],height:100)
 
             //Spacer(),
 

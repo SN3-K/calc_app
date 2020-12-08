@@ -14,7 +14,7 @@ class CalculationHistoryContainer extends StatelessWidget{
   Widget build(BuildContext context) {
     return Container(
 
-        height: 80,
+        height: 100,
         //width: 300,
         //margin: EdgeInsets.only(left: 24, right: 24, bottom: 24),
         decoration: BoxDecoration(

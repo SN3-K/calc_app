@@ -11,7 +11,7 @@ class ResultDisplay extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
         width: double.infinity,
-        height: 120,
+        height: 200,
         color: Colors.black,
         child: Container(
             alignment: Alignment.bottomRight,
